@@ -1,0 +1,16 @@
+# Project Notes – Creative VHDL Counter
+
+This file is my personal build log for the project. I’ll use it to track my daily progress, challenges, and what I learn along the way.  
+
+---
+
+## Day 0 – Project Setup
+- Created GitHub repository **creative-vhdl-counter**  
+- Added initial 'README.md' with project scope and repo structure  
+- Planned out modules:  
+  - JK Flip-Flop (baseline building block)  
+  - 3-bit Counter (core project)  
+  - Creative features (pause/resume, up/down counting)  
+- Set up folder structure: 'src/', 'tb/', 'waveforms/', 'docs/' 
+
+Ready to start coding the JK Flip-Flop next.
