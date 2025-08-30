@@ -3,12 +3,12 @@
 This project implements a 3-bit counter in VHDL, inspired by my McGill ECSE 222 Digital Logic course, but expanded with creative features.
 
 ## Features
-- JK Flip-Flop (building block)
+- DFF (building block)
 - 3-bit counter with reset and enable
 - Expanded features:
   - Pause/Resume
   - Up/Down counting
-  - (Optional) Modulo-N version
+  - Modulo-N version
 
 ## Tools
 - Intel Quartus Prime
